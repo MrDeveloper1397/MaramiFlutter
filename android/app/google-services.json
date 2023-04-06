@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "514994448129",
+    "project_id": "flutter-apps-246f3",
+    "storage_bucket": "flutter-apps-246f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514994448129:android:34fb6330f9bef960979d00",
+        "android_client_info": {
+          "package_name": "com.marami.mil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514994448129-gd2jchhsalgr0a6gg8e412h18gbmqp2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtI89zWCXHWxMeEaRYRzHL0wfxfDBsfuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514994448129-gd2jchhsalgr0a6gg8e412h18gbmqp2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514994448129-20bna6sh1olte5fnk3jv7lpnk6crb24q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marami.mil.tricolour"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
